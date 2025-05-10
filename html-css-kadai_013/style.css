@@ -74,7 +74,14 @@ p {
   #menu-sp {
     float: right;
     padding: 0;
-  }
+    background: none;
+    border: none;
+    
+}
+  #menu-sp img {
+  width: 40px;
+  height: auto;
+}
 
   #nav-sp {
     background-color: #ce933e;
